@@ -5,3 +5,4 @@ this is new branch
 more changes
 add 
 some more text
+add stuff that conflicts with changes in branch2
