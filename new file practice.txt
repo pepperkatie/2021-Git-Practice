@@ -1,8 +1,8 @@
 new file practice 
 woo woo
 new changes hurray
+this is new branch
 more changes
 add 
 some more text
-woop
-woop
+add stuff that conflicts with changes in branch2
